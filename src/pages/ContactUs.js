@@ -1,6 +1,4 @@
 import React from 'react'
-import Footer from './Footer'
-import Header from './Header'
 
 function ContactUs() {
   return (
@@ -79,6 +77,7 @@ function ContactUs() {
                     scrolling="no"
                     marginheight="0"
                     marginwidth="0"
+                    title="map"
                   ></iframe>
                   <a href="https://www.whatismyip-address.com/divi-discount/">
                     divi discount

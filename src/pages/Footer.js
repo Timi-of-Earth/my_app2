@@ -44,9 +44,9 @@ function Footer() {
         <div className="socials">
           <h4>Social Media Links</h4>
           <ul>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="#">Instagram</a></li>
+            <li><a href="https://twitter.com/home">Twitter</a></li>
+            <li><a href="https://twitter.com/home">LinkedIn</a></li>
+            <li><a href="https://twitter.com/home">Instagram</a></li>
           </ul>
         </div>
       </footer>

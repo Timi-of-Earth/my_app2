@@ -1,11 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import HelloWorld from './components/Welcome';
-import Profile from './components/Profile';
-import Function, { Name } from './components/Function';
-import Card from './components/Card';
-import './components/card.css';
-import StudentList from './components/StudentList';
 import Header from './pages/Header';
 import Home from './pages/Home';
 import Footer from './pages/Footer';

@@ -29,43 +29,43 @@ function Gallery() {
   
         <div className="grid-container">
           
-            <img src={image1} className="gallery-image pwc" />
+            <img src={image1} className="gallery-image pwc" alt="" />
           
           
-            <img src={image2} className="gallery-image projects" />
+            <img src={image2} className="gallery-image projects" alt="" />
           
           
-            <img src={image3} className="gallery-image Random" />
+            <img src={image3} className="gallery-image Random" alt="" />
           
           
-            <img src={image4} className="gallery-image pwc" />
+            <img src={image4} className="gallery-image pwc" alt="" />
           
           
-            <img src={image5} className="gallery-image projects" />
+            <img src={image5} className="gallery-image projects" alt="" />
           
           
-            <img src={image6} className="gallery-image Random" />
+            <img src={image6} className="gallery-image Random" alt="" />
           
           
-            <img src={image7} className="gallery-image pwc" />
+            <img src={image7} className="gallery-image pwc" alt="" />
           
           
-            <img src={image8} className="gallery-image projects" />
+            <img src={image8} className="gallery-image projects" alt="" />
           
           
-            <img src={image9} className="gallery-image Random" />
+            <img src={image9} className="gallery-image Random" alt="" />
           
           
-            <img src={image10} className="gallery-image projects" />
+            <img src={image10} className="gallery-image projects" alt="" />
           
           
-            <img src={image11} className="gallery-image Random" />
+            <img src={image11} className="gallery-image Random" alt="" />
           
           
-            <img src={image12} className="gallery-image Random" />
+            <img src={image12} className="gallery-image Random" alt="" />
           
           
-            <img src={image13} className="gallery-image Random" />
+            <img src={image13} className="gallery-image Random" alt="" />
           
         </div>
     </section>
